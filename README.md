@@ -1,7 +1,7 @@
-## Multimodal Learning in Healthcare
+## Multimodal Learning in Healthcare [![arXiv](https://img.shields.io/badge/arXiv-2403.14734-b31b1b.svg)](https://arxiv.org/abs/243.14734)
 
-This repository is for the paper: **Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**. [![arXiv](https://img.shields.io/badge/arXiv-2403.14734-b31b1b.svg)](https://arxiv.org/abs/243.14734)
 
+This repository is for the paper: **Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**. 
 #### Citation
 
 If this work is helpful to `you`, please consider cite our paper using the following citation format:
