@@ -2,9 +2,7 @@
 
 
 This repository is for the paper: **Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**. 
-#### Citation
 ![milestones](figure/intro.png)
-
 If this work is helpful to you, please consider cite our paper using the following citation format:
 
 ```bibtex
