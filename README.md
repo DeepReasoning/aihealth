@@ -7,11 +7,16 @@ This repository is for the paper: **Has Multimodal Learning Delivered Universal
 If this work is helpful to you, please consider cite our paper using the following citation format:
 
 ```bibtex
-@article{lin2024healthcare,
-  title={Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey},
-  author={Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, Kai He, Zhen Peng, Erik Cambria, Mengling Feng},
-  journal={arXiv preprint arXiv:2408.12880},
-  year={2024}
+@article{LIN2025102795,
+title = {Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey},
+journal = {Information Fusion},
+volume = {116},
+pages = {102795},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102795},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524005736},
+author = {Qika Lin and Yifan Zhu and Xin Mei and Ling Huang and Jingying Ma and Kai He and Zhen Peng and Erik Cambria and Mengling Feng}
 }
 ```
 
